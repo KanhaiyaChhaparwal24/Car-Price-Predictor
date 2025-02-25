@@ -45,7 +45,7 @@ Car Price Predictor is a web application that allows users to estimate the resal
 1. Clone the repository:
    ```bash
    git clone https://github.com/KanhaiyaChhaparwal24/Car-Price-Predictor.git
-   cd car-price-predictor
+   cd Car-Price-Predictor
    ```
 2. Run the Flask application:
    ```bash
