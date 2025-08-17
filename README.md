@@ -1,4 +1,4 @@
-# 🚗 Car Price Predictor
+# 🚗 CarValuator
 
 ## Overview
 
